@@ -1,0 +1,36 @@
+.A {
+	position: relative;
+	text-align: center;
+	color: seashell;
+	font-size: 150px;
+	font-family: 'Monoton', cursive;
+}
+
+
+.heading {
+	position: absolute;
+	top: 30%;
+	left: 5%;
+	}
+.login{
+	padding: 5px;
+	position: absolute;
+	top: 16px;
+	left: 15px;
+	font-size: 30px;
+}
+	.signup{
+	padding: 5px;
+	position: absolute;
+	top: 16px;
+	left: 150px;
+	font-size: 30px;
+}
+.link {
+	position: absolute;
+	top: 16px;
+	left: 375px;
+	font-size: 30px;
+	
+}
+	

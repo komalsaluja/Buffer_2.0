@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+h1 {
+	background-color: seashell;
+}
+table {
+	border-spacing: 20px;
+}
+.inp {
+	background-color: black;
+	font-size: 30px;
+	color: white;
+}
+.inp:hover {
+	box-shadow: 3px 3px gray;
+}
